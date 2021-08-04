@@ -11,3 +11,4 @@ Allow: /about/
 # Disallow: /fancybox/
 
 Sitemap: https://lifewillbebetter586.github.io/deardaily/sitemap.xml
+Sitemap: https://lifewillbebetter586.github.io/deardaily/baidusitemap.xml
