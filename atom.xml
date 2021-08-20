@@ -6,7 +6,7 @@
   <link href="https://lifewillbebetter586.github.io/deardaily/atom.xml" rel="self"/>
   
   <link href="https://lifewillbebetter586.github.io/deardaily/"/>
-  <updated>2021-07-21T08:41:21.173Z</updated>
+  <updated>2021-08-20T07:53:56.796Z</updated>
   <id>https://lifewillbebetter586.github.io/deardaily/</id>
   
   <author>
@@ -15,6 +15,62 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>創建ArcGIS Table表流水號</title>
+    <link href="https://lifewillbebetter586.github.io/deardaily/posts/5d041085/"/>
+    <id>https://lifewillbebetter586.github.io/deardaily/posts/5d041085/</id>
+    <published>2021-08-20T07:02:04.000Z</published>
+    <updated>2021-08-20T07:53:56.796Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;note default&quot;&gt;
+            &lt;h2 id=&quot;how-to-create-sequential-number-in-a-field-using-python-in-the-field-calculator&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#how-to-create-sequential-number-in-a-field-using-python-in-the-field-calculator&quot;&gt;&lt;/a&gt; How to Create Sequential number in a field using Python in the Field Calculator?&lt;/h2&gt;
+          &lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KomIiAO.jpg&quot; alt=&quot;How to Create Sequential number in a field using Python in the Field Calculator?&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ArcGIS筆記" scheme="https://lifewillbebetter586.github.io/deardaily/categories/ArcGIS%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="ArcGIS" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcGIS/"/>
+    
+    <category term="Field Calculator" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Field-Calculator/"/>
+    
+    <category term="Create Sequential number" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Create-Sequential-number/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>刪除點或面圖層內有多筆資料重複的情況</title>
+    <link href="https://lifewillbebetter586.github.io/deardaily/posts/a9cbdfd9/"/>
+    <id>https://lifewillbebetter586.github.io/deardaily/posts/a9cbdfd9/</id>
+    <published>2021-08-19T07:09:58.000Z</published>
+    <updated>2021-08-20T07:52:53.388Z</updated>
+    
+    
+    <summary type="html">&lt;div class=&quot;note default&quot;&gt;
+            &lt;h2 id=&quot;how-to-delete-duplicates-polygonpoints-in-arcgis&quot;&gt;&lt;a class=&quot;markdownIt-Anchor&quot; href=&quot;#how-to-delete-duplicates-polygonpoints-in-arcgis&quot;&gt;&lt;/a&gt; How To Delete Duplicates Polygon/Points in ArcGIS?&lt;/h2&gt;
+          &lt;/div&gt;
+&lt;img src=&quot;https://i.imgur.com/qtTyHjo.jpg&quot; alt=&quot;How To Delete Duplicates Polygon/Points in ArcGIS?&quot; style=&quot;zoom:67%;&quot; /&gt;</summary>
+    
+    
+    
+    <category term="ArcGIS筆記" scheme="https://lifewillbebetter586.github.io/deardaily/categories/ArcGIS%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="ArcGIS" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcGIS/"/>
+    
+    <category term="Feature To Point" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Feature-To-Point/"/>
+    
+    <category term="Add XY Coordinates" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Add-XY-Coordinates/"/>
+    
+    <category term="Delete Identical" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Delete-Identical/"/>
+    
+    <category term="Delete Duplicates Polygon/Points" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Delete-Duplicates-Polygon-Points/"/>
+    
+  </entry>
   
   <entry>
     <title>利用命令提示字元(cmd)合併多個txt檔</title>
@@ -44,7 +100,7 @@
     <link href="https://lifewillbebetter586.github.io/deardaily/posts/2ec5a0f5/"/>
     <id>https://lifewillbebetter586.github.io/deardaily/posts/2ec5a0f5/</id>
     <published>2020-03-09T08:04:28.000Z</published>
-    <updated>2021-07-21T08:45:01.304Z</updated>
+    <updated>2021-08-19T09:37:13.423Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/L26lqlB.png&quot; alt=&quot;converting addresses to latitude/longitude&quot; /&gt;&lt;/p&gt;
@@ -108,7 +164,7 @@
     <link href="https://lifewillbebetter586.github.io/deardaily/posts/c9b77fca/"/>
     <id>https://lifewillbebetter586.github.io/deardaily/posts/c9b77fca/</id>
     <published>2020-02-27T06:30:16.000Z</published>
-    <updated>2021-07-21T08:36:35.065Z</updated>
+    <updated>2021-08-19T08:28:08.965Z</updated>
     
     
     <summary type="html">&lt;div class=&quot;note default&quot;&gt;
