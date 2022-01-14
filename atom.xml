@@ -6,7 +6,7 @@
   <link href="https://lifewillbebetter586.github.io/deardaily/atom.xml" rel="self"/>
   
   <link href="https://lifewillbebetter586.github.io/deardaily/"/>
-  <updated>2022-01-13T06:53:23.826Z</updated>
+  <updated>2022-01-14T08:18:01.148Z</updated>
   <id>https://lifewillbebetter586.github.io/deardaily/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>將欄位內資料拆分為所需字段</title>
+    <link href="https://lifewillbebetter586.github.io/deardaily/posts/aa9b84be/"/>
+    <id>https://lifewillbebetter586.github.io/deardaily/posts/aa9b84be/</id>
+    <published>2022-01-13T07:44:19.000Z</published>
+    <updated>2022-01-14T08:18:01.148Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/r9L6oF5.jpg&quot; alt=&quot;How To: Split text field into X fields in ArcMap&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ArcGIS筆記" scheme="https://lifewillbebetter586.github.io/deardaily/categories/ArcGIS%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="ArcGIS" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcGIS/"/>
+    
+    <category term="Field Calculator" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Field-Calculator/"/>
+    
+  </entry>
   
   <entry>
     <title>【新北|萬里】Dapu Hotspring 大埔硫磺溫泉商旅│高CP值住宿環境，值得回訪的飯店</title>
@@ -91,7 +112,7 @@
     <link href="https://lifewillbebetter586.github.io/deardaily/posts/5d041085/"/>
     <id>https://lifewillbebetter586.github.io/deardaily/posts/5d041085/</id>
     <published>2021-08-20T07:02:04.000Z</published>
-    <updated>2021-11-26T08:14:56.186Z</updated>
+    <updated>2022-01-14T07:38:10.729Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zgHEM3H.png&quot; alt=&quot;How To: Create sequential numbers in a field using Python in the Field Calculator&quot; /&gt;&lt;/p&gt;</summary>
