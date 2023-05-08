@@ -6,7 +6,7 @@
   <link href="https://lifewillbebetter586.github.io/deardaily/atom.xml" rel="self"/>
   
   <link href="https://lifewillbebetter586.github.io/deardaily/"/>
-  <updated>2023-04-06T04:50:39.131Z</updated>
+  <updated>2023-05-08T06:54:21.657Z</updated>
   <id>https://lifewillbebetter586.github.io/deardaily/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Mastering Split Strings in ArcGIS：How to Retrieve the First or Second Value with Field Calculator</title>
+    <link href="https://lifewillbebetter586.github.io/deardaily/posts/887342c9/"/>
+    <id>https://lifewillbebetter586.github.io/deardaily/posts/887342c9/</id>
+    <published>2023-05-08T05:00:36.000Z</published>
+    <updated>2023-05-08T06:54:21.657Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/9JSbmlC.jpg&quot; alt=&quot;Mastering Split Strings in ArcGIS：How to Retrieve the First or Second Value&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ArcGIS筆記" scheme="https://lifewillbebetter586.github.io/deardaily/categories/ArcGIS%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="ArcGIS" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcGIS/"/>
+    
+    <category term="Field Calculator" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Field-Calculator/"/>
+    
+  </entry>
   
   <entry>
     <title>【日常開箱】米家螢幕掛燈</title>
@@ -230,7 +251,7 @@
     <link href="https://lifewillbebetter586.github.io/deardaily/posts/5d041085/"/>
     <id>https://lifewillbebetter586.github.io/deardaily/posts/5d041085/</id>
     <published>2021-08-20T07:02:04.000Z</published>
-    <updated>2022-11-03T06:43:27.119Z</updated>
+    <updated>2023-05-08T05:36:30.586Z</updated>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/zgHEM3H.png&quot; alt=&quot;How To: Create sequential numbers in a field using Python in the Field Calculator&quot; /&gt;&lt;/p&gt;</summary>
