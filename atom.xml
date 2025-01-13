@@ -6,7 +6,7 @@
   <link href="https://lifewillbebetter586.github.io/deardaily/atom.xml" rel="self"/>
   
   <link href="https://lifewillbebetter586.github.io/deardaily/"/>
-  <updated>2024-10-15T06:35:46.091Z</updated>
+  <updated>2025-01-13T06:41:13.817Z</updated>
   <id>https://lifewillbebetter586.github.io/deardaily/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Splitting multipart polygon into single polygons in ArcGIS</title>
+    <link href="https://lifewillbebetter586.github.io/deardaily/posts/6bf3669e/"/>
+    <id>https://lifewillbebetter586.github.io/deardaily/posts/6bf3669e/</id>
+    <published>2025-01-13T04:55:07.000Z</published>
+    <updated>2025-01-13T06:41:13.817Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/IgEEqR7.jpg&quot; alt=&quot;Splitting multipart polygon into single polygons in ArcGIS&quot; /&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="ArcGIS筆記" scheme="https://lifewillbebetter586.github.io/deardaily/categories/ArcGIS%E7%AD%86%E8%A8%98/"/>
+    
+    
+    <category term="ArcGIS" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcGIS/"/>
+    
+    <category term="ArcToolbox" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcToolbox/"/>
+    
+  </entry>
   
   <entry>
     <title>【台北|士林】雀客藏居台北陽明山溫泉飯店│隱世溫泉，陽明山的療癒小周末</title>
@@ -493,33 +514,6 @@
     <category term="ArcGIS" scheme="https://lifewillbebetter586.github.io/deardaily/tags/ArcGIS/"/>
     
     <category term="Properties" scheme="https://lifewillbebetter586.github.io/deardaily/tags/Properties/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>【台北|北投】亞太飯店綠漾餐廳 | 氛圍舒適、淡雅可口</title>
-    <link href="https://lifewillbebetter586.github.io/deardaily/posts/5795b5ef/"/>
-    <id>https://lifewillbebetter586.github.io/deardaily/posts/5795b5ef/</id>
-    <published>2022-09-26T05:55:38.000Z</published>
-    <updated>2023-10-24T05:52:47.105Z</updated>
-    
-    
-    <summary type="html">&lt;img src=&quot;https://i.imgur.com/CZReLq5.png&quot; alt=&quot;台北北投亞太飯店綠漾餐廳&quot; style=&quot;zoom:67%;&quot; /&gt;
-&lt;p&gt;若為住宿者，可加訂綠漾餐廳的晚餐套餐，&lt;/p&gt;
-&lt;p&gt;不必下山覓食，在飯店內度過悠閒時光的同時，輕鬆舒適的在餐廳享受美食，&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="小旅行" scheme="https://lifewillbebetter586.github.io/deardaily/categories/%E5%B0%8F%E6%97%85%E8%A1%8C/"/>
-    
-    <category term="國內旅遊" scheme="https://lifewillbebetter586.github.io/deardaily/categories/%E5%B0%8F%E6%97%85%E8%A1%8C/%E5%9C%8B%E5%85%A7%E6%97%85%E9%81%8A/"/>
-    
-    
-    <category term="台北住宿" scheme="https://lifewillbebetter586.github.io/deardaily/tags/%E5%8F%B0%E5%8C%97%E4%BD%8F%E5%AE%BF/"/>
-    
-    <category term="溫泉住宿" scheme="https://lifewillbebetter586.github.io/deardaily/tags/%E6%BA%AB%E6%B3%89%E4%BD%8F%E5%AE%BF/"/>
-    
-    <category term="台北餐廳" scheme="https://lifewillbebetter586.github.io/deardaily/tags/%E5%8F%B0%E5%8C%97%E9%A4%90%E5%BB%B3/"/>
     
   </entry>
   
